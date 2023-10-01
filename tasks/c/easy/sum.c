@@ -1,5 +1,5 @@
 // C - Easy
-
+//Aakash Aditya Giri, 1/10/2023
 #include <stdio.h>
 
 // TODO: Implement the sum function
